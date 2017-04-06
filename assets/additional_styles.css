@@ -5,6 +5,13 @@ body {
 }
 
 /* My standard vertical spacing classes */
+ul{
+  margin-top: 0;
+}
+
+ul{
+  padding: 0;
+}
 
 .padding-inside-top-xs {
   padding-top: 10px;
